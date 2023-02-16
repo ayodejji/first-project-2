@@ -1,0 +1,19 @@
+body {
+    background-color: aquamarine;
+}
+h1 {
+    color: blue;
+}
+hr {
+    border-style: none;
+    border-color: blue;
+    border-top-style: dotted;
+    border-width:5px;
+    width:5%;
+}
+style {
+    font-family:Arial;
+} 
+img {
+    width: 300 ; height: 300; src:"IMG/THE SHADE.jpg" alt="Dm pics"
+}
